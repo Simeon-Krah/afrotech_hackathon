@@ -1,0 +1,7 @@
+langchain
+langchain_community
+langchain_chroma
+langchain-openai
+langchain-google-vertexai
+langchain-google-genai
+beautifulsoup4
